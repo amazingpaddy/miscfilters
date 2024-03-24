@@ -254,6 +254,14 @@ thehindu.com##.support-jlm
 thehindu.com##+js(aopr, geoIdentify)
 thehindu.com##.entrySubs
 
+! The Hindu Tamil (hindutamil.in)
+hindutamil.in##.ad-ft
+hindutamil.in###stickyfooterarticle
+hindutamil.in##.support-jlm
+||dm.hindutamil.in^
+hindutamil.in##+js(aopr, geoIdentify)
+hindutamil.in##.entrySubs
+
 ! Trinity Audio (remove when Easylist adds it...)
 ||streamtheworld.com/ondemand/ars?
 ||tsbluebox.com^$third-party
